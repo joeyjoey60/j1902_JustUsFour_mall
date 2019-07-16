@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall_common" />
+        <module name="mall_eurekaserver" />
+        <module name="mall_pojo" />
+        <module name="mall_wangzhanqiantai" />
+        <module name="mall_yunyingshanghoutai" />
+        <module name="mall_zhouprovider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="j1902_JustUsFour_mall" target="1.5" />
+      <module name="mall_common" target="1.7" />
+      <module name="mall_eurekaserver" target="1.8" />
+      <module name="mall_pojo" target="1.7" />
+      <module name="mall_shangjiaguanlihoutai" target="1.8" />
+      <module name="mall_wangzhanqiantai" target="1.8" />
+      <module name="mall_yunyingshanghoutai" target="1.8" />
+      <module name="mall_zhouprovider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

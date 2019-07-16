@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/j1902_JustUsFour_mall.iml" filepath="$PROJECT_DIR$/j1902_JustUsFour_mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_common/mall_common.iml" filepath="$PROJECT_DIR$/mall_common/mall_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_eurekaserver/mall_eurekaserver.iml" filepath="$PROJECT_DIR$/mall_eurekaserver/mall_eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_pojo/mall_pojo.iml" filepath="$PROJECT_DIR$/mall_pojo/mall_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_wangzhanqiantai/mall_wangzhanqiantai.iml" filepath="$PROJECT_DIR$/mall_wangzhanqiantai/mall_wangzhanqiantai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_yunyingshanghoutai/mall_yunyingshanghoutai.iml" filepath="$PROJECT_DIR$/mall_yunyingshanghoutai/mall_yunyingshanghoutai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_zhouprovider/mall_zhouprovider.iml" filepath="$PROJECT_DIR$/mall_zhouprovider/mall_zhouprovider.iml" />
+    </modules>
+  </component>
+</project>
